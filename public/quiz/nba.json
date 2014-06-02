@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who was the NBA's regular season MVP in the 2013-2014 season?",
+    "choices": ["Kevin Durant", "Lebron James", "Blake Griffin", "Chris Paul"],
+    "answer": "Kevin Durant"
+  },
+  {
+    "question": "Which franchise was recently sold for a record $2 Billion?",
+    "choices": ["Los Angeles Lakers", "New York Knicks", "Los Angeles Clippers", "Miami Heat"],
+    "answer": "Los Angeles Clippers"
+  },
+  {
+    "question": "What year was Blake Griffin drafted #1 Overall?",
+    "choices": ["2008", "2009", "2010", "2011"],
+    "answer": "2009"
+  },
+  {
+    "question": "Which of these players was not a first-round draft pick?",
+    "choices": ["Kawhi Leonard", "Manu Ginobili", "Shane Battier", "Danny Granger"],
+    "answer": "Manu Ginobili"
+  },
+  {
+    "question": "Who has won the most amount of championships among the following players:",
+    "choices": ["Kevin Durant", "Lebron James", "Derek Fisher", "Pau Gasol"],
+    "answer": "Derek Fisher"
+  },
+  {
+    "question": "Which of these players was not included in the NBA's Top 50 players when announced in 1997?",
+    "choices": ["Julius Erving", "Dominique Wilkins", "Larry Bird", "Shaquille O'Neal"],
+    "answer": "Dominique Wilkins"
+  },
+  {
+    "question": "Who is the all-time leader in points scored?",
+    "choices": ["Michael Jordan", "Kobe Bryant", "Kareem Abdul-Jabbar", "Karl Malone"],
+    "answer": "Kareem Abdul-Jabbar"
+  },
+  {
+    "question": "What is the only NBA franchise to go to consecutive finals more than 4 times?",
+    "choices": ["Boston Celtics", "Los Angeles Lakers", "Chicago Bulls", "San Antonio Spurs"],
+    "answer": "Boston Celtics"
+  },
+  {
+    "question": "Which of these players have never made it to a NBA finals?",
+    "choices": ["Kevin Durant", "Kobe Bryant", "Chris Paul", "Dirk Nowitzki"],
+    "answer": "Chris Paul"
+  },
+  {
+    "question": "Who was the most recent player to win NBA regular season MVP and NBA Finals MVP in the same year?",
+    "choices": ["Tim Duncan", "Kobe Bryant", "Lebron James", "Dirk Nowitzki"],
+    "answer": "Lebron James"
+  }
+]

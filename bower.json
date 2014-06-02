@@ -1,0 +1,15 @@
+{
+  "name": "quizzy",
+  "description": "A quiz app built using AngularJS",
+  "version": "0.0.0",
+  "homepage": "https://github.com/adeng21/Quizzy",
+  "dependencies": {
+    "angular": "latest",
+    "angular-route": "latest",
+    "angular-loader": "latest",
+    "angular-mocks": "latest",
+    "html5-boilerplate": "latest",
+    "angular-resource": "latest",
+    "bootstrap": "latest"
+  }
+}
